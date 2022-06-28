@@ -1,0 +1,1 @@
+<?php /**PATH D:\Drive4\Ecommerce-web-application\resources\views/admin/body.blade.php ENDPATH**/ ?>
